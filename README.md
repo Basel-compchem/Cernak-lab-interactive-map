@@ -1,5 +1,5 @@
 # Cernak Lab Interactive Instrument Map
-[Live map](https://github.com/Basel-compchem/Cernak-lab-interactive-map/map-interface/)
+[Live map](https://github.com/Basel-compchem/Cernak-lab-interactive-map/blob/main/map-interface/Cernak%20lab%20map.svg)
 
 This page shows an interactive floor map of the Cernak Lab with the location and status of major instruments.
 
