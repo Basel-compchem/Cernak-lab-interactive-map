@@ -102,7 +102,7 @@
         // --- Map setup ---
         var map = L.map('map', { crs: L.CRS.Simple, minZoom: -1 });
         var bounds = [[0,0], [1080,1920]];
-        L.imageOverlay('https://raw.githubusercontent.com/Basel-compchem/Cernak-lab-interactive-map/main/map-interface/Cernak%20lab%20map.svg', bounds).addTo(map);
+        L.imageOverlay('Cernak%20lab%20map.svg', bounds).addTo(map);
         map.fitBounds(bounds);
         map.setZoom(map.getZoom() + 0.49);
         map.whenReady(function () {
