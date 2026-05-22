@@ -6,7 +6,7 @@ This page shows an interactive floor map of the Cernak Lab with the location and
 ## What you can do
 See where each instrument is in the lab.
 
-Check if an instrument is green (OK) or red (problem / attention needed).
+Check if an instrument is 🟢green (OK) or 🔴red (problem / attention needed).
 
 Click an instrument to view:
 
@@ -43,7 +43,7 @@ The entry is stored in the shared log spreadsheet linked as “VIEW HISTORY LOG�
 2. Click 📜 VIEW HISTORY LOG.
 3. Filter or search inside the sheet to see previous incidents, maintenance, or notes.
 
-## How to change coordinates (for map maintainers)
+## How to change coordinates (for map maintainers: Tiger/Basel)
 If you move equipment or update the floor plan, you may need to move markers.
 
 1. Go to the live map.
