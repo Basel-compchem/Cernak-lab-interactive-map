@@ -2,6 +2,7 @@
 [Live map](https://Basel-compchem.github.io/Cernak-lab-interactive-map/map-interface/)
 
 This page shows an interactive floor map of the Cernak Lab with the location and status of major instruments.
+Courtesy: Dr. Di Wang for the first version.
 
 ## What you can do
 See where each instrument is in the lab.
